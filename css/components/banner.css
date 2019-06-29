@@ -6,7 +6,7 @@
 .banner .business-name {
   height: auto;
   top: 80px;
-  right: -100px;
+  right: 0px;
 }
 .banner .title-background {
   background-color: white;
