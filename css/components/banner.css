@@ -1,0 +1,30 @@
+.banner img {
+  height: 380px;
+  width: 500px;
+  object-fit: cover;
+}
+.banner .business-name {
+  height: auto;
+  top: 80px;
+  right: -100px;
+}
+.banner .title-background {
+  background-color: white;
+}
+.banner h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-stretch: ultra-condensed;
+}
+.banner p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  color: black;
+  font-stretch: ultra-condensed;
+}
+.banner .banner-description i {
+  border: none;
+}
+.container-banner-content {
+  top: 60px;
+}

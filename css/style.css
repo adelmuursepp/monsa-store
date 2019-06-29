@@ -1,0 +1,21 @@
+@import "layouts/landingpage.css";
+@import "components/navbar.css";
+@import "components/banner.css";
+
+h2, p, i {
+  font-family: "Raleway", sans-serif;
+  color: #904D26;
+  font-weight: 600;
+}
+h2 {
+  letter-spacing: 5px;
+
+}
+i.fas, i.fab, i.far {
+  border: 3px solid;
+  border-radius: 50%;
+}
+p {
+  font-size: 13px;
+  font-weight: 700;
+}

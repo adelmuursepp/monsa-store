@@ -1,0 +1,7 @@
+.navbar {
+  text-transform: uppercase;
+}
+i.fas, i.fab, i.far {
+  border: 3px solid;
+  border-radius: 50%;
+}
